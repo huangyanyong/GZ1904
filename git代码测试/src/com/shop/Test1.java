@@ -11,4 +11,6 @@ public interface Test1 {
 	
 	void check();
 	
+	void delete();
+	
 }
