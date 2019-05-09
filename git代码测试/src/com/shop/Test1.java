@@ -9,4 +9,6 @@ public interface Test1 {
 	//测试分支方法
 	void testmethod();
 	
+	void delete();
+	
 }
